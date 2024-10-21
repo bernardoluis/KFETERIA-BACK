@@ -10,6 +10,9 @@ mysql
 #instalar dependencias
 npm install
 
+#correr proyecto:
+node app.js
+
 #Crear un nuevo producto: (post)
 localhost:3000/productos
 {
